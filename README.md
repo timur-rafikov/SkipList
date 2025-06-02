@@ -6,6 +6,10 @@ st128186@student.spbu.ru
 @trafikprog
 ## Description
 Implementation of an STL container (Skip List)
+## Documentation
+```
+docs/html/index.html
+```
 ## Build
 ```
 make
