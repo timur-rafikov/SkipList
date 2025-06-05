@@ -10,6 +10,10 @@ Implementation of an STL container (Skip List)
 ```
 docs/html/index.html
 ```
+## Testing report
+```
+docs/testingreport.md
+```
 ## Build
 ```
 make
